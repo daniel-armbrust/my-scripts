@@ -1,7 +1,7 @@
 ## My Script
 **These are some of my scripts that I find useful.**
 
-- **objectstorage-simple-backup.sh** -> Simple script to backup files and mysql dump to OCI Object Storage.
+- **objectstorage-simple-backup.sh** -> Simple script to backup files and mysqldump to OCI Object Storage.
 
 OCI Documentation
 =================
