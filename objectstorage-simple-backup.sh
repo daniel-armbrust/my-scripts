@@ -1,6 +1,6 @@
 #!/bin/bash
 #
-# Script Name...: os-backup.sh
+# Script Name...: objectstorage-simple-backup.sh
 #
 # Author........: Daniel Armbrust - daniel.armbrust@oracle.com
 # Date..........: 10/20/2019
