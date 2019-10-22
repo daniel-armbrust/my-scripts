@@ -5,9 +5,8 @@
 # Author........: Daniel Armbrust - daniel.armbrust@oracle.com
 # Date..........: 10/20/2019
 #
-# Description...: The following script makes a backup files from /var/www and
-#  MySQL Dumps. After that, those files will be transfered to OCI Object Storage.
-#
+# Description...: The following script makes backup from the directory /var/www and a 
+#   mysqldump from some databases. After that, the files is copied to the OCI Object Storage.
 #
 
 #
